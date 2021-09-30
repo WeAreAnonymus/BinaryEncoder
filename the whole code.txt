@@ -1,0 +1,500 @@
+print("Welcome to my Binary Reader, for source code just")
+print(" go to the github page!")
+
+letterstring1 = input("Please input your text, (Letter 1 (more letters then one will cause an error))").lower
+letterstring2 = input("Please input your text, (Letter 2 (more letters then one will cause an error))").lower
+letterstring3 = input("Please input your text, (Letter 3 (more letters then one will cause an error))").lower
+letterstring4 = input("Please input your text, (Letter 4 (more letters then one will cause an error))").lower
+letterstring5 = input("Please input your text, (Letter 5 (more letters then one will cause an error))").lower
+letterstring6 = input("Please input your text, (Letter 6 (more letters then one will cause an error))").lower
+letterstring7 = input("Please input your text, (Letter 7 (more letters then one will cause an error))").lower
+letterstring8 = input("Please input your text, (Letter 8 (more letters then one will cause an error))").lower
+letterstring9 = input("Please input your text, (Letter 9 (more letters then one will cause an error))").lower
+
+if letterstring1 == "a":
+    print("01100001")
+if letterstring1 == "b":
+    print("01100010")
+if letterstring1 == "c":
+    print("01100011")
+if letterstring1 == "d":
+    print("01100100")
+if letterstring1 == "e":
+    print("01100101")
+if letterstring1 == "f":
+    print("01100110")
+if letterstring1 == "g":
+    print("01100111")
+if letterstring1 == "h":
+    print("01101000")
+if letterstring1 == "i":
+    print("01101001")
+if letterstring1 == "j":
+    print("01101010")
+if letterstring1 == "k":
+    print("01101011")
+if letterstring1 == "l":
+    print("01101100")
+if letterstring1 == "m":
+    print("01101101")
+if letterstring1 == "n":
+    print("01101110")
+if letterstring1 == "o":
+    print("01101111")
+if letterstring1 == "p":
+    print("01110000")
+if letterstring1 == "q":
+    print("01110001")
+if letterstring1 == "r":
+    print("01110010")
+if letterstring1 == "s":
+    print("01110011")
+if letterstring1 == "t":
+    print("01110100")
+if letterstring1 == "u":
+    print("01110101")
+if letterstring1 == "v":
+    print("01110110")
+if letterstring1 == "w":
+    print("01110111")
+if letterstring1 == "x":
+    print("01111000")
+if letterstring1 == "y":
+    print("01111001")
+if letterstring1 == "z":
+    print("01111010")
+print("Letter 1 should be encoded succesfully")
+if letterstring2 == "a":
+    print("01100001")
+if letterstring2 == "b":
+    print("01100010")
+if letterstring2 == "c":
+    print("01100011")
+if letterstring2 == "d":
+    print("01100100")
+if letterstring2 == "e":
+    print("01100101")
+if letterstring2 == "f":
+    print("01100110")
+if letterstring2 == "g":
+    print("01100111")
+if letterstring2 == "h":
+    print("01101000")
+if letterstring2 == "i":
+    print("01101001")
+if letterstring2 == "j":
+    print("01101010")
+if letterstring2 == "k":
+    print("01101011")
+if letterstring2 == "l":
+    print("01101100")
+if letterstring2 == "m":
+    print("01101101")
+if letterstring2 == "n":
+    print("01101110")
+if letterstring2 == "o":
+    print("01101111")
+if letterstring2 == "p":
+    print("01110000")
+if letterstring2 == "q":
+    print("01110001")
+if letterstring2 == "r":
+    print("01110010")
+if letterstring2 == "s":
+    print("01110011")
+if letterstring2 == "t":
+    print("01110100")
+if letterstring2 == "u":
+    print("01110101")
+if letterstring2 == "v":
+    print("01110110")
+if letterstring2 == "w":
+    print("01110111")
+if letterstring2 == "x":
+    print("01111000")
+if letterstring2 == "y":
+    print("01111001")
+if letterstring2 == "z":
+    print("01111010")
+print("Letter 2 should be encoded succesfully")
+if letterstring3 == "a":
+    print("01100001")
+if letterstring3 == "b":
+    print("01100010")
+if letterstring3 == "c":
+    print("01100011")
+if letterstring3 == "d":
+    print("01100100")
+if letterstring3 == "e":
+    print("01100101")
+if letterstring3 == "f":
+    print("01100110")
+if letterstring3 == "g":
+    print("01100111")
+if letterstring3 == "h":
+    print("01101000")
+if letterstring3 == "i":
+    print("01101001")
+if letterstring3 == "j":
+    print("01101010")
+if letterstring3 == "k":
+    print("01101011")
+if letterstring3 == "l":
+    print("01101100")
+if letterstring3 == "m":
+    print("01101101")
+if letterstring3 == "n":
+    print("01101110")
+if letterstring3 == "o":
+    print("01101111")
+if letterstring3 == "p":
+    print("01110000")
+if letterstring3 == "q":
+    print("01110001")
+if letterstring3 == "r":
+    print("01110010")
+if letterstring3 == "s":
+    print("01110011")
+if letterstring3 == "t":
+    print("01110100")
+if letterstring3 == "u":
+    print("01110101")
+if letterstring3 == "v":
+    print("01110110")
+if letterstring3 == "w":
+    print("01110111")
+if letterstring3 == "x":
+    print("01111000")
+if letterstring3 == "y":
+    print("01111001")
+if letterstring3 == "z":
+    print("01111010")
+print("Letter 3 should be encoded succesfully")
+if letterstring4 == "a":
+    print("01100001")
+if letterstring4 == "b":
+    print("01100010")
+if letterstring4 == "c":
+    print("01100011")
+if letterstring4 == "d":
+    print("01100100")
+if letterstring4 == "e":
+    print("01100101")
+if letterstring4 == "f":
+    print("01100110")
+if letterstring4 == "g":
+    print("01100111")
+if letterstring4 == "h":
+    print("01101000")
+if letterstring4 == "i":
+    print("01101001")
+if letterstring4 == "j":
+    print("01101010")
+if letterstring4 == "k":
+    print("01101011")
+if letterstring4 == "l":
+    print("01101100")
+if letterstring4 == "m":
+    print("01101101")
+if letterstring4 == "n":
+    print("01101110")
+if letterstring4 == "o":
+    print("01101111")
+if letterstring4 == "p":
+    print("01110000")
+if letterstring4 == "q":
+    print("01110001")
+if letterstring4 == "r":
+    print("01110010")
+if letterstring4 == "s":
+    print("01110011")
+if letterstring4 == "t":
+    print("01110100")
+if letterstring4 == "u":
+    print("01110101")
+if letterstring4 == "v":
+    print("01110110")
+if letterstring4 == "w":
+    print("01110111")
+if letterstring4 == "x":
+    print("01111000")
+if letterstring4 == "y":
+    print("01111001")
+if letterstring4 == "z":
+    print("01111010")
+print("Letter 4 should be encoded succesfully")
+if letterstring5 == "a":
+    print("01100001")
+if letterstring5 == "b":
+    print("01100010")
+if letterstring5 == "c":
+    print("01100011")
+if letterstring5 == "d":
+    print("01100100")
+if letterstring5 == "e":
+    print("01100101")
+if letterstring5 == "f":
+    print("01100110")
+if letterstring5 == "g":
+    print("01100111")
+if letterstring5 == "h":
+    print("01101000")
+if letterstring5 == "i":
+    print("01101001")
+if letterstring5 == "j":
+    print("01101010")
+if letterstring5 == "k":
+    print("01101011")
+if letterstring5 == "l":
+    print("01101100")
+if letterstring5 == "m":
+    print("01101101")
+if letterstring5 == "n":
+    print("01101110")
+if letterstring5 == "o":
+    print("01101111")
+if letterstring5 == "p":
+    print("01110000")
+if letterstring5 == "q":
+    print("01110001")
+if letterstring5 == "r":
+    print("01110010")
+if letterstring5 == "s":
+    print("01110011")
+if letterstring5 == "t":
+    print("01110100")
+if letterstring5 == "u":
+    print("01110101")
+if letterstring5 == "v":
+    print("01110110")
+if letterstring5 == "w":
+    print("01110111")
+if letterstring5 == "x":
+    print("01111000")
+if letterstring5 == "y":
+    print("01111001")
+if letterstring5 == "z":
+    print("01111010")
+print("Letter 5 should be encoded succesfully")
+if letterstring6 == "a":
+    print("01100001")
+if letterstring6 == "b":
+    print("01100010")
+if letterstring6 == "c":
+    print("01100011")
+if letterstring6 == "d":
+    print("01100100")
+if letterstring6 == "e":
+    print("01100101")
+if letterstring6 == "f":
+    print("01100110")
+if letterstring6 == "g":
+    print("01100111")
+if letterstring6 == "h":
+    print("01101000")
+if letterstring6 == "i":
+    print("01101001")
+if letterstring6 == "j":
+    print("01101010")
+if letterstring6 == "k":
+    print("01101011")
+if letterstring6 == "l":
+    print("01101100")
+if letterstring6 == "m":
+    print("01101101")
+if letterstring6 == "n":
+    print("01101110")
+if letterstring6 == "o":
+    print("01101111")
+if letterstring6 == "p":
+    print("01110000")
+if letterstring6 == "q":
+    print("01110001")
+if letterstring6 == "r":
+    print("01110010")
+if letterstring6 == "s":
+    print("01110011")
+if letterstring6 == "t":
+    print("01110100")
+if letterstring6 == "u":
+    print("01110101")
+if letterstring6 == "v":
+    print("01110110")
+if letterstring6 == "w":
+    print("01110111")
+if letterstring6 == "x":
+    print("01111000")
+if letterstring6 == "y":
+    print("01111001")
+if letterstring6 == "z":
+    print("01111010")
+print("Letter 6 should be encoded succesfully")
+if letterstring7 == "a":
+    print("01100001")
+if letterstring7 == "b":
+    print("01100010")
+if letterstring7 == "c":
+    print("01100011")
+if letterstring7 == "d":
+    print("01100100")
+if letterstring7 == "e":
+    print("01100101")
+if letterstring7 == "f":
+    print("01100110")
+if letterstring7 == "g":
+    print("01100111")
+if letterstring7 == "h":
+    print("01101000")
+if letterstring7 == "i":
+    print("01101001")
+if letterstring7 == "j":
+    print("01101010")
+if letterstring7 == "k":
+    print("01101011")
+if letterstring7 == "l":
+    print("01101100")
+if letterstring7 == "m":
+    print("01101101")
+if letterstring7 == "n":
+    print("01101110")
+if letterstring7 == "o":
+    print("01101111")
+if letterstring7 == "p":
+    print("01110000")
+if letterstring7 == "q":
+    print("01110001")
+if letterstring7 == "r":
+    print("01110010")
+if letterstring7 == "s":
+    print("01110011")
+if letterstring7 == "t":
+    print("01110100")
+if letterstring7 == "u":
+    print("01110101")
+if letterstring7 == "v":
+    print("01110110")
+if letterstring7 == "w":
+    print("01110111")
+if letterstring7 == "x":
+    print("01111000")
+if letterstring7 == "y":
+    print("01111001")
+if letterstring7 == "z":
+    print("01111010")
+print("Letter 7 should be encoded succesfully")
+if letterstring8 == "a":
+    print("01100001")
+if letterstring8 == "b":
+    print("01100010")
+if letterstring8 == "c":
+    print("01100011")
+if letterstring8 == "d":
+    print("01100100")
+if letterstring8 == "e":
+    print("01100101")
+if letterstring8 == "f":
+    print("01100110")
+if letterstring8 == "g":
+    print("01100111")
+if letterstring8 == "h":
+    print("01101000")
+if letterstring8 == "i":
+    print("01101001")
+if letterstring8 == "j":
+    print("01101010")
+if letterstring8 == "k":
+    print("01101011")
+if letterstring8 == "l":
+    print("01101100")
+if letterstring8 == "m":
+    print("01101101")
+if letterstring8 == "n":
+    print("01101110")
+if letterstring8 == "o":
+    print("01101111")
+if letterstring8 == "p":
+    print("01110000")
+if letterstring8 == "q":
+    print("01110001")
+if letterstring8 == "r":
+    print("01110010")
+if letterstring8 == "s":
+    print("01110011")
+if letterstring8 == "t":
+    print("01110100")
+if letterstring8 == "u":
+    print("01110101")
+if letterstring8 == "v":
+    print("01110110")
+if letterstring8 == "w":
+    print("01110111")
+if letterstring8 == "x":
+    print("01111000")
+if letterstring8 == "y":
+    print("01111001")
+if letterstring8 == "z":
+    print("01111010")
+print("Letter 8 should be encoded succesfully")
+if letterstring9 == "a":
+    print("01100001")
+if letterstring9 == "b":
+    print("01100010")
+if letterstring9 == "c":
+    print("01100011")
+if letterstring9 == "d":
+    print("01100100")
+if letterstring9 == "e":
+    print("01100101")
+if letterstring9 == "f":
+    print("01100110")
+if letterstring9 == "g":
+    print("01100111")
+if letterstring9 == "h":
+    print("01101000")
+if letterstring9 == "i":
+    print("01101001")
+if letterstring9 == "j":
+    print("01101010")
+if letterstring9 == "k":
+    print("01101011")
+if letterstring9 == "l":
+    print("01101100")
+if letterstring9 == "m":
+    print("01101101")
+if letterstring9 == "n":
+    print("01101110")
+if letterstring9 == "o":
+    print("01101111")
+if letterstring9 == "p":
+    print("01110000")
+if letterstring9 == "q":
+    print("01110001")
+if letterstring9 == "r":
+    print("01110010")
+if letterstring9 == "s":
+    print("01110011")
+if letterstring9 == "t":
+    print("01110100")
+if letterstring9 == "u":
+    print("01110101")
+if letterstring9 == "v":
+    print("01110110")
+if letterstring9 == "w":
+    print("01110111")
+if letterstring9 == "x":
+    print("01111000")
+if letterstring9 == "y":
+    print("01111001")
+if letterstring9 == "z":
+    print("01111010")
+print("Letter 9 should be encoded succesfully")
+# omg so close to 500!!
+# just some more notes!!
+print(" ")
+print("Fun Fact! This is the first code to ever")
+print("Reach 500 lines coded by me!! Wdym its just")
+print("All if's?? isnt that how encoders work???? ")
+# OMG JUST SOME MORE NOTES!!!
+# 3
+# 2                   ( V that symbol is called a "pipe")
+# 1!!!! Less gooooooooo 

@@ -1,0 +1,12 @@
+print("Welcome to my Binary Reader, for source code just")
+print(" go to the github page!")
+
+letterstring1 = input("Please input your text, (Letter 1 (more letters then one will cause an error))").lower
+letterstring2 = input("Please input your text, (Letter 2 (more letters then one will cause an error))").lower
+letterstring3 = input("Please input your text, (Letter 3 (more letters then one will cause an error))").lower
+letterstring4 = input("Please input your text, (Letter 4 (more letters then one will cause an error))").lower
+letterstring5 = input("Please input your text, (Letter 5 (more letters then one will cause an error))").lower
+letterstring6 = input("Please input your text, (Letter 6 (more letters then one will cause an error))").lower
+letterstring7 = input("Please input your text, (Letter 7 (more letters then one will cause an error))").lower
+letterstring8 = input("Please input your text, (Letter 8 (more letters then one will cause an error))").lower
+letterstring9 = input("Please input your text, (Letter 9 (more letters then one will cause an error))").lower
